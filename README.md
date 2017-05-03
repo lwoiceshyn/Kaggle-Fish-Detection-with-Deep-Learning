@@ -12,6 +12,7 @@ Transfer learning was done using the Inception-V3 model to learn classification 
 ## Examples
 
 Raw Fish Image Example:
+
 ![Alt text](Sample%20Images/img_00039.jpg "Raw Fish Image Example")
 
 Cropped Fish Image Example:
