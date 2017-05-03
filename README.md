@@ -11,7 +11,7 @@ Transfer learning was done using the Inception-V3 model to learn classification 
 
 ## Examples
 
-![Alt text](Sample Images/img_00039.jpg "Raw Fish Image Example:")
+![Alt text](Sample\ Images/img_00039.jpg "Raw Fish Image Example:")
 
 
-![Alt text](Sample Images/img_199label_1.jpg "Cropped Fish Image Example")
+![Alt text](Sample\ Images/img_199label_1.jpg "Cropped Fish Image Example")
