@@ -15,4 +15,5 @@ Raw Fish Image Example:
 ![Alt text](Sample%20Images/img_00039.jpg "Raw Fish Image Example")
 
 Cropped Fish Image Example:
+
 ![Alt text](Sample%20Images/img_199label_1.jpg "Cropped Fish Image Example")
